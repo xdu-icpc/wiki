@@ -1,0 +1,19 @@
+---
+title: 双周训练
+description: 
+published: true
+date: 2020-11-07T02:06:10.457Z
+tags: 
+editor: undefined
+dateCreated: 2020-10-07T08:45:19.367Z
+---
+
+# 双周训练
+
+即将开始，敬请期待……
+
+* [计分表](scoreboard)
+* [第 1 次双周训练 (2020 年 10 月 16 日)](t1)
+* [第 2 次双周训练 (2020 年 10 月 23 日)](t2)
+* [第 3 次双周训练 (2020 年 10 月 30 日)](/double-week/t3)
+* [第 4 次双周训练 (2020 年 11 月 06 日)](/double-week/t4)
