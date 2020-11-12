@@ -1,10 +1,10 @@
 ---
-title: 2019-2020-Brazil-Subregional
+title: 2019-2020 BSPC
 description: 
 published: true
-date: 2020-11-08T14:30:13.288Z
+date: 2020-11-12T13:05:07.546Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-08T08:23:12.556Z
 ---
 
