@@ -1,8 +1,8 @@
 ---
-title: 2020 CCPC 绵阳站
+title: 2020 CCPC 绵阳
 description: 
 published: true
-date: 2020-11-12T13:00:56.671Z
+date: 2020-11-12T13:06:21.990Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T13:00:56.671Z
