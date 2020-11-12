@@ -2,7 +2,7 @@
 title: 2019-2020 BSPC
 description: 
 published: true
-date: 2020-11-12T13:05:07.546Z
+date: 2020-11-12T13:05:19.497Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-08T08:23:12.556Z
@@ -23,6 +23,8 @@ lhz 说 G 是二分图最大权匹配, Sumail 上机写然后过了.
 Sumail 和 zlq 轮流上机. Sumail 写 I, RE. zlq 听 lhz 讲 J 模拟题题意, 每次写一点就发现题意理解有错. 写好了之后有个样例不对, lhz 就在稿纸上推, 推好了来不及调. 很惨地结束了比赛.
 
 最后过了 A, B, D, G, H, K, L, M.
+
+---
 
 赛后 zlq 发现 J 错的样例是自己样例输入打错了, 啥都不改交一下就过了. 艹.
 
