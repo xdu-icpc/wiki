@@ -2,9 +2,9 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-06T05:26:29.544Z
+date: 2020-11-13T09:28:49.285Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
 ---
 
@@ -167,3 +167,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [flukehn]：$\mathcal{O}(2^n)$ 过 $10^6$
 > * [xry111]：$\mathcal{O}(114514^n)$ 过 $1919810$
 > * [zzs]：田所-远野算法
+
+### 2020-11-13
+
+> * [Leachim]: 哈，飞起来了啊，呀啊啊啊，WA 62
