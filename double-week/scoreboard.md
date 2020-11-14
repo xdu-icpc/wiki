@@ -2,9 +2,9 @@
 title: 双周训练计分表
 description: 
 published: true
-date: 2020-10-26T11:01:31.854Z
+date: 2020-11-14T11:23:09.466Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-08T07:38:39.280Z
 ---
 
@@ -18,12 +18,11 @@ dateCreated: 2020-10-08T07:38:39.280Z
 |蔚蓝|Celeste|heavyshower, LightInShadow, lance.hz|heavyshower|heavyshower, Sumail, fate_lhz|...|
 |HTT|HTT|Flyzz,dummerfu,\_Nice|\_HTT\_|\_HTT\_|...|
 |喵喵喵|Miao_miao_miao|fcxooosq, littlechai, WaltHou|Miao_miao_miao|fcxooosq, littlechai, waterhou|...|
-| (未组队) 王言聪 |  |lincong| | lincong |...|
+|AK到失智|AK to SHIZHI|lincong,1mszs|AK to SHIZHI| lincong,limaosong|...|
 |take your time|Take your time|Freesin2000,RainCurtain,zhujunchao|xdu1903xxx|Freesin2000,/,pllj|...|
 |关于某队天天打铁这件事|SeniorTypists|gao_wu_di ;Lynn- Speng;zest_code|SeniorTypists|zestcoder;djddskkekk;LynnSpeng|...|
 |三棵二叉树|Three binary trees|cxzxcys ;M_sy;Legendxxx|Three binary trees|caq000318;RM_;frutips;|...|
 |玛卡巴卡|Makka_Pakka1982|trueldc，AliceZero|Makka_Pakka|trueldc，AliceZero|...|
-| (未组队) 李茂嵩 |  |1mszs| | limaosong  |...|
 |嘤嘤嘤|Triy|eniacding,Silliance|Triy|eniacding,Silliance|...|
 |zyjyzxy|zyjyzxy|yjmstr,ryzjyz,WingsWings|yjmstr|yjmstr,WingsZeng,c20171422ryz|...|
 |吾好梦中AC|Dream to AC|ojbkoxy,grayleaf,treasurew|Dream to AC|ojbkoxy,grayleaf,treasurew|...|
