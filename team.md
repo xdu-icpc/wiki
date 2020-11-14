@@ -2,7 +2,7 @@
 title: 队伍列表
 description: 
 published: true
-date: 2020-11-14T11:10:15.715Z
+date: 2020-11-14T13:15:24.904Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T08:37:39.792Z
@@ -24,7 +24,7 @@ dateCreated: 2020-10-07T08:37:39.792Z
 * [Triy](Triy)
 * [Miao_miao_miao](Miao_miao_miao)
 * [SeniorTypists](SeniorTypists)
-* [AKToShizhi](AKToShizhi)
+* [AK to SHIZHI](AKToShizhi)
 ## 退役
 
 * [Geometric Rhythm](geometric-rhythm)
