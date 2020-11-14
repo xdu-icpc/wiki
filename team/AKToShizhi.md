@@ -2,7 +2,7 @@
 title: AK to SHIZHI
 description: 
 published: true
-date: 2020-11-14T13:28:46.970Z
+date: 2020-11-14T13:29:32.097Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-14T13:23:53.058Z
@@ -13,3 +13,4 @@ lmszs
 lincong
 
 # 训练记录
+[AKToShizhi](/team/AKToShizhi)
