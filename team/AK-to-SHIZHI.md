@@ -2,13 +2,13 @@
 title: AK to SHIZHI
 description: 
 published: true
-date: 2020-11-14T13:53:01.690Z
+date: 2020-11-14T13:54:19.497Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-14T13:49:46.933Z
 ---
 
-# AK to SHIZHI
+# 队员列表
 1mszs
 lincong
 # 训练记录
