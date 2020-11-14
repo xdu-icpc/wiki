@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-13T09:28:49.285Z
+date: 2020-11-14T10:05:59.069Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -171,3 +171,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 ### 2020-11-13
 
 > * [Leachim]: 哈，飞起来了啊，呀啊啊啊，WA 62
+
+### 2020-11-14
+> * [flukehn]：我都不想过这题了
+> * （然后交上去，AC 了）
