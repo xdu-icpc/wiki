@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-15T12:43:49.242Z
+date: 2020-11-15T14:28:58.581Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -185,3 +185,17 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [Leachim]：这好吗，这不好
 > * [et3_tsy]：ACM 界要以和为贵
 > * [xry111]：要讲武德
+
+> * [flukehn]：wjj 群 最帅成员
+> * 机器人：@[rqdmap]
+> * [xry111]：wjj 群 最菜成员
+> * 机器人：@[rqdmap]
+> * [flukehn]：wjj 群 最强成员
+> * 机器人：@[rqdmap]
+> * [xry111]：？
+> * [flukehn]：?
+> * [xry111]：他只会说一个人吗
+> * [flukehn]：wjj 群 最屑成员
+> * 机器人：@[rqdmap]
+> * [xry111]：泥随机数是不是没种子
+> * [flukehn]：艹了
