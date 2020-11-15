@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-15T12:39:12.550Z
+date: 2020-11-15T12:43:49.242Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -180,8 +180,8 @@ dateCreated: 2020-10-07T11:50:07.703Z
 ### 2020-11-15
 
 > * (某人 $\mathcal{O}(n^2)$ 过了 $10^5$)
-> * [xry111]: 不讲武德，来 骗 来 特判
-> * [Leachim]: 20 岁的老出题人
-> * [Leachim]: 这好吗，这不好
-> * [et3_tsy]: ACM 界要以和为贵
-> * [xry111]: 要讲武德
+> * [xry111]：不讲武德，来 骗 来 特判
+> * [Leachim]：20 岁的老出题人
+> * [Leachim]：这好吗，这不好
+> * [et3_tsy]：ACM 界要以和为贵
+> * [xry111]：要讲武德
