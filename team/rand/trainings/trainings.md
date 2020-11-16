@@ -2,7 +2,7 @@
 title: 2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)
 description: 
 published: true
-date: 2020-11-16T11:58:19.346Z
+date: 2020-11-16T11:58:44.485Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T11:33:14.812Z
@@ -38,3 +38,5 @@ IGVA说Leachim你Hack不讲武德，来Hack，来偷袭IGVA研一的ACM老DP选�
 过了B之后，Leachim去做F博弈，IGVA去做E模拟。
 此时rdqmpa回来拿键盘，被Leachim拦下一起出博弈。最后合力搞了一个假算法，WA62，起飞失败。
 IGVA的E也没成功，比赛完在吃饭的时候，还被Leachim又Hack了。
+
+5题滚粗
