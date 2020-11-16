@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-15T14:28:58.581Z
+date: 2020-11-16T12:27:45.196Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -28,6 +28,9 @@ dateCreated: 2020-10-07T11:50:07.703Z
 [rqdmap]: /person/rqdmap
 [zlq]: /person/zlq
 [et3_tsy]: /person/et3_tsy
+[FreeSin]: /person/freesin
+[RainCurtain]: /person/RainCurtain
+[pllj]: /person/pllj
 
 # 更早
 
@@ -199,3 +202,6 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * 机器人：@[rqdmap]
 > * [xry111]：泥随机数是不是没种子
 > * [flukehn]：艹了
+
+### 2020-11-16
+> * (补题一天后) [FreeSin]() : 区区floyd
