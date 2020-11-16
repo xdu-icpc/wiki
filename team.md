@@ -2,7 +2,7 @@
 title: 队伍列表
 description: 
 published: true
-date: 2020-11-16T08:23:08.754Z
+date: 2020-11-16T08:27:51.709Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T08:37:39.792Z
@@ -25,7 +25,7 @@ dateCreated: 2020-10-07T08:37:39.792Z
 * [Miao_miao_miao](Miao_miao_miao)
 * [SeniorTypists](SeniorTypists)
 * [AK to SHIZHI](/team/AK-to-SHIZHI)
-* [Three binary trees]()
+* [Three binary trees](Three)
 ## 退役
 
 * [Geometric Rhythm](geometric-rhythm)
