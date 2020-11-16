@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-16T12:38:24.036Z
+date: 2020-11-16T14:05:10.297Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -31,6 +31,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 [FreeSin]: /person/freesin
 [RainCurtain]: /person/RainCurtain
 [pllj]: /person/pllj
+[cdcq]: /person/cdcq
 
 # 更早
 
@@ -205,3 +206,6 @@ dateCreated: 2020-10-07T11:50:07.703Z
 
 ### 2020-11-16
 > * (补某floyd题WA一天后) [FreeSin]() : 区区floyd
+
+> * (若干天前) [cdcq]: 我其实是佛系评奖
+> * (今天) 官方推送：[cdcq] 2019-2020 学年学习成绩和综合测评成绩均为专业第 1 名
