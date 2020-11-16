@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-16T12:27:45.196Z
+date: 2020-11-16T12:28:21.384Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
