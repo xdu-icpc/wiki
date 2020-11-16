@@ -2,7 +2,7 @@
 title: 2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)
 description: 
 published: true
-date: 2020-11-16T11:52:21.921Z
+date: 2020-11-16T11:58:19.346Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T11:33:14.812Z
@@ -24,12 +24,17 @@ IGVA随后去开了J题，Leachim看了B题和G题。IGVA发现没读懂J，又�
 
 Leachim想G想的略有问题，于是WA了2发之后才搞定，此时IGVA的B题也WA了几发。
 
-Leachim过来问IGVA发什甚么事了？
+>Leachim过来问IGVA发什甚么事了？
 IGVA说我感觉我的dp很对。
 Leachim说你dp能不能让我hack一下？
 IGVA说可以。
 啪很快啊，Leachim出了一个小数据，一个大数据，还把样例反过来输入了一下。
 IGVA的dp都防出去了啊，放出去了，之后当然是很自信的把代码给Leachim看。按照传统Hack，三发不中自然是点到为止。IGVA准备收手，这时Leachim说你dp顺序有问题，突然改了一下样例。
 IGVA的dp大意了，没有判断。
-Hack数据给IGVA
-当时就WA了，不过没有事，二分钟后IGVA就排了个序AC了。
+Hack数据给IGVA的dp蹭了一下，当时就WA了，IGVA说停停。
+不过没有事，二分钟后IGVA就排了个序AC了。
+IGVA说Leachim你Hack不讲武德，来Hack，来偷袭IGVA研一的ACM老DP选手。
+
+过了B之后，Leachim去做F博弈，IGVA去做E模拟。
+此时rdqmpa回来拿键盘，被Leachim拦下一起出博弈。最后合力搞了一个假算法，WA62，起飞失败。
+IGVA的E也没成功，比赛完在吃饭的时候，还被Leachim又Hack了。
