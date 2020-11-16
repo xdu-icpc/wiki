@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-16T12:37:26.180Z
+date: 2020-11-16T12:38:24.036Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -204,4 +204,4 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [flukehn]：艹了
 
 ### 2020-11-16
-> * (补某floyd题WA4一天后) [FreeSin]() : 区区floyd
+> * (补某floyd题WA一天后) [FreeSin]() : 区区floyd
