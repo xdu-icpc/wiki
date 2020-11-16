@@ -2,7 +2,7 @@
 title: 2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)
 description: 
 published: true
-date: 2020-11-16T11:49:20.379Z
+date: 2020-11-16T11:52:21.921Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T11:33:14.812Z
@@ -31,4 +31,5 @@ IGVA说可以。
 啪很快啊，Leachim出了一个小数据，一个大数据，还把样例反过来输入了一下。
 IGVA的dp都防出去了啊，放出去了，之后当然是很自信的把代码给Leachim看。按照传统Hack，三发不中自然是点到为止。IGVA准备收手，这时Leachim说你dp顺序有问题，突然改了一下样例。
 IGVA的dp大意了，没有判断。
+Hack数据给IGVA
 当时就WA了，不过没有事，二分钟后IGVA就排了个序AC了。
