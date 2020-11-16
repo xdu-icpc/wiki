@@ -2,7 +2,7 @@
 title: 2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)
 description: 
 published: true
-date: 2020-11-16T11:58:44.485Z
+date: 2020-11-16T11:59:45.148Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T11:33:14.812Z
