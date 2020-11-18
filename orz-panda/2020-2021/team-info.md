@@ -2,7 +2,7 @@
 title: 2020-2021 熊猫杯校队注册
 description: 
 published: true
-date: 2020-11-18T11:20:38.584Z
+date: 2020-11-18T11:32:24.593Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-17T10:42:47.072Z
@@ -16,4 +16,5 @@ dateCreated: 2020-11-17T10:42:47.072Z
 | (样例) Orz 熊猫 | Orz Pandas | 张三 | Zhang San | 李四 | Li Si | 王五 | Wang Wu |
 | 辛几何旋律 | voyage | 冯畅 | Chang Feng | 湛忠胜 | Zhongsheng Zhan | 周灿 | can zhou |
 | 蔚蓝 | Celeste | 潘曲阳 | Quyang Pan | 朱霖淇 | Linqi Zhu | 刘浩钊 | Haozhao Liu |
+| 没人会数论 | EasyMath | 周益全 | Yiquan Zhou | 石潇 | Xiao Shi | 花煦 | Xu Hua |
 | ... | ... | ... | ... | ... | ... | ... | ... |
