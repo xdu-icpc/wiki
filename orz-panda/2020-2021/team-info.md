@@ -2,7 +2,7 @@
 title: 2020-2021 熊猫杯校队注册
 description: 
 published: true
-date: 2020-11-18T15:45:01.704Z
+date: 2020-11-18T16:18:08.179Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-17T10:42:47.072Z
@@ -21,6 +21,6 @@ dateCreated: 2020-11-17T10:42:47.072Z
 | 转眼间又在下雨 | zyjyzxy | 张炀杰 | Yangjie Zhang | 蒋叶桢 | Yezhen Jiang| 曾祥翼 | Xiangyi Zeng |
 | 放学后下午茶时间 | HTT | 谢铭松 | Mingsong Xie | 向泽致 | Zezhi Xiang | 付柏霖 | Bolin Fu |
 | 慢慢来 | TakeYourTime | 陈德创 | Dechuang Chen | 祝君超 | Junchao Zhu | 冯瑞森 | Ruisen Feng |
-| 喵喵喵 | Kitty or Tigger | 冯雪晴 | Xueqing Feng | 栾昕亚 | Xinya Luan | 黄涵 | Han Huang |
+| 喵喵喵 | Meow | 冯雪晴 | Xueqing Feng | 栾昕亚 | Xinya Luan | 黄涵 | Han Huang |
 | 鑫森众焱垚 | Triwater | 王文煜 | Wenyu Wang | 谭升阳 | Shengyang Tan | 郭浩杰 | Haojie Guo |
 | ... | ... | ... | ... | ... | ... | ... | ... |
