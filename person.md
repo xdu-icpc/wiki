@@ -2,9 +2,9 @@
 title: 队员列表
 description: 
 published: true
-date: 2020-10-31T16:07:54.620Z
+date: 2020-11-18T12:52:12.073Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-07T12:07:30.496Z
 ---
 
@@ -21,6 +21,7 @@ dateCreated: 2020-10-07T12:07:30.496Z
 * [rqdmap](/person/rqdmap)
 * [Ryker0923](/person/Ryker0923)
 * [yjmstr](/person/yjmstr)
+* [zirrtu](/person/zirrtu)
 ## 退役
 
 * [xry111](xry111)
