@@ -2,7 +2,7 @@
 title: rand
 description: none
 published: true
-date: 2020-11-21T13:34:27.628Z
+date: 2020-11-21T13:35:41.934Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T08:30:11.371Z
@@ -13,5 +13,5 @@ dateCreated: 2020-10-07T08:30:11.371Z
 ## 队员
 
 [IGVA](/person/IGVA)
-[rqdmap](/person/RQDMAP)
+[rqdmap](https://icpc.xidian.wiki/zh/person/rqdmap)
 [Leachim](/person/Leachim)
