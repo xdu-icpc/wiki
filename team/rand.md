@@ -2,9 +2,9 @@
 title: rand
 description: none
 published: true
-date: 2020-10-09T07:54:58.377Z
+date: 2020-11-21T13:34:27.628Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-07T08:30:11.371Z
 ---
 
@@ -13,5 +13,5 @@ dateCreated: 2020-10-07T08:30:11.371Z
 ## 队员
 
 [IGVA](/person/IGVA)
-rqdmap
+[rqdmap](/person/RQDMAP)
 [Leachim](/person/Leachim)
