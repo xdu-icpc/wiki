@@ -2,9 +2,9 @@
 title: ACM-ICPC巴西分区
 description: 
 published: true
-date: 2020-11-08T03:33:15.571Z
+date: 2020-11-22T13:39:28.991Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-06T11:03:20.764Z
 ---
 
@@ -19,3 +19,4 @@ fbl和xzz疯狂找L题规律，fbl先和xzz说了一次假规律(表打的太小
 
 -----
 # 补题
+fbl 补了I
