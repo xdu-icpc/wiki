@@ -2,7 +2,7 @@
 title: 2020-2021 熊猫杯校队注册
 description: 
 published: true
-date: 2020-11-21T10:15:48.098Z
+date: 2020-11-22T02:20:21.554Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-17T10:42:47.072Z
@@ -26,5 +26,5 @@ dateCreated: 2020-11-17T10:42:47.072Z
 | 三棵二叉树 | Three binary trees | 陈宇松 | Yusong Chen | 孟世元 | Shiyuan Meng | 朱宽栗 | Kuanli Zhu |
 | 答案 | rand | 王孟晞 | Mengxi Wang | 李世冬 | Shidong Li | 施鹏飞 | Pengfei Shi
 | AK到失智 | AK to SHIZHI | 李茂嵩 | Maosong Li | 王言聪 | Yancong Wang | 
-| 嘤嘤嘤 | Triy | 陶禹成 | Silliance | 丁雅可 | eniacding |  |  |
+| 嘤嘤嘤 | Triy | 陶禹成 | Yuchen Tao | 丁雅可 | Yake Ding |  |  |
 |灵稽一动|the path to ac|张帆|Fan Zhang|买志斌|Zhibin Mai|柴东辰|Dongchen Chai|
