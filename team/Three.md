@@ -2,13 +2,22 @@
 title: 训练记录
 description: 
 published: true
-date: 2020-11-16T12:09:32.705Z
+date: 2020-11-23T10:30:28.036Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T08:31:21.931Z
 ---
 
 # 训练记录
+**第四周训练记录**
+ABDGHKLM：由CYS于去年8月份完成。
+
+J：由ZKL完成，用他自己的话说：模拟就完事儿了。
+
+I：由CYS完成，对所有询问排序后在线做floyd即可。
+
+
+
 **第三周训练记录**
 A：由于CYS死在电路实验室里，A由MSY完成，
    据说是个签到。
