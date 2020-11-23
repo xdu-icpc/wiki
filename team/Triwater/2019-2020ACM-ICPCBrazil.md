@@ -2,7 +2,7 @@
 title: 2019-2020 ACM-ICPC Brazil Subregional Programming Contest 
 description: 
 published: true
-date: 2020-11-23T04:23:19.771Z
+date: 2020-11-23T04:25:28.226Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-23T04:21:33.007Z
@@ -639,7 +639,32 @@ int main()
 
 
 ```cpp
-
+#include<bits/stdc++.h>
+using namespace std;
+long long ksm(long long a,int b)
+{
+	long long ans=1;
+	while(b)
+	{
+		if(b&1)ans=ans*a;
+		a*=a;
+		b>>=1;
+	}
+	return ans;
+}
+int main()
+{
+	long long n;
+	cin>>n;
+	int sum=0;
+	while(n)
+	{
+		sum+=n%2;
+		n/=2;
+	}
+    cout<<ksm(2,sum);
+	return 0; 
+}
 ```
 
 
@@ -651,6 +676,65 @@ int main()
 
 
 ```cpp
-
+#include<bits/stdc++.h>
+using namespace std;
+int n,t,c;
+long long a[100010];
+bool judge(long long x)
+{
+	int ans=0;
+	long long sum=0;
+	for(int i=1;i<=n;i++)
+	{
+//		cout<<i<<endl;
+		sum+=a[i];
+		if(sum/t+(sum%t!=0)>x)
+		{
+			i--;
+			ans++;
+			sum=0;
+		}
+//		else
+//		sum+=a[i];
+	}
+	if(sum!=0)
+	ans++;
+	if(ans<=c)
+	return 1;
+	else
+	return 0;
+}
+int main()
+{
+	cin>>n>>c>>t;
+	long long maxn=0;
+	for(int i=1;i<=n;i++)
+	{
+		scanf("%lld",&a[i]);
+//		if(a[i]%t==0)
+//		a[i]/=t;
+//		else
+//		a[i]=a[i]/t+1;
+		maxn=max(maxn,a[i]/t+(a[i]%t!=0));
+	}
+//	for(int i=1;i<=n;i++)
+//	cout<<a[i]<<" ";
+//	cout<<endl;
+	long long l=maxn,r=10000000000000000ll,mid;
+	while(l<r-1)
+	{
+		mid=(l+r)/2;
+		if(judge(mid))
+		r=mid;
+		else 
+		l=mid;
+//		cout<<l<<" "<<r<<endl;
+	}
+	if(judge(l))
+	cout<<l;
+	else
+	cout<<r;
+	return 0; 
+}
 ```
 
