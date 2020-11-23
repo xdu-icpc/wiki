@@ -2,7 +2,7 @@
 title: 训练记录
 description: 
 published: true
-date: 2020-11-23T10:30:51.846Z
+date: 2020-11-23T11:31:25.535Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T08:31:21.931Z
@@ -14,7 +14,10 @@ ABDGHKLM：由CYS于去年8月份完成。
 
 J：由ZKL完成，用他自己的话说：模拟就完事儿了。
 
-I：由CYS完成，对所有询问排序后在线做floyd即可。
+I：由CYS完成。
+   考虑对询问按照K排序后进行在线操作。
+   这样只需要做两次floyd（T=0或1时各一次），
+   把结点一个一个加进去即可。
 
 CEF：没人会做。本该写C的MSY拉闸了。
 
