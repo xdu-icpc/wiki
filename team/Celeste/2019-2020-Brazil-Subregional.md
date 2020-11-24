@@ -2,7 +2,7 @@
 title: 2019-2020 BSPC
 description: 
 published: true
-date: 2020-11-12T13:05:19.497Z
+date: 2020-11-24T06:40:55.606Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-08T08:23:12.556Z
@@ -30,4 +30,4 @@ Sumail 和 zlq 轮流上机. Sumail 写 I, RE. zlq 听 lhz 讲 J 模拟题题意
 
 # 补题
 
-Sumail 补了 F, I.
+Sumail 补了 E, I. lhz 补了 F.
