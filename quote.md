@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-25T12:20:12.805Z
+date: 2020-11-26T11:28:31.130Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -219,3 +219,8 @@ dateCreated: 2020-10-07T11:50:07.703Z
 
 > * [xry111]：[flukehn] 大一已经把别人大三的事情干完了
 > * [flukehn]：我觉得就没啥难度啊
+
+# 2020-11-26
+
+> * [flukehn]：[bzy] 快来训练，再不训练打不到金牌了
+> * [bzy]：打什么金牌，拿杯不就好了
