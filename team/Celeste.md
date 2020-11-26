@@ -2,9 +2,9 @@
 title: Celeste
 description: 《蔚蓝(Celeste)》是由Matt Makes Games Inc.制作并发行的一款像素风格的动作冒险类游戏。该游戏难度极大，玩家的全局死亡次数往往以千甚至万为单位。
 published: true
-date: 2020-10-22T13:01:43.364Z
+date: 2020-11-26T02:19:32.021Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-12T07:28:45.588Z
 ---
 
