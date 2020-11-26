@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-26T11:28:31.130Z
+date: 2020-11-26T11:40:38.555Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -224,3 +224,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 
 > * [flukehn]：[bzy] 快来训练，再不训练打不到金牌了
 > * [bzy]：打什么金牌，拿杯不就好了
+
+> * [lonely_moon]：比如有的书会讲半天搜(pai)索(xu)，其实一行 `sort` 就行了
+> * [xry111]：搜索咋一行啊
+> * [bzy]：我也想要这种搜索
