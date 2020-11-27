@@ -1,14 +1,14 @@
 ---
-title: voyage
+title: Symplectic Geometric Rhythm
 description: 
 published: true
-date: 2020-10-10T14:49:52.618Z
+date: 2020-11-27T04:27:55.518Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-07T08:21:26.506Z
 ---
 
-# 我们的舰艇漏水了
+# 辛几何旋律
 
 2020/10/10：gym101611 F 模拟不会写，B 不会计数，I 代数不会，J 算几不会
 
