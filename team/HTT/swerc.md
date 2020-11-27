@@ -1,10 +1,10 @@
 ---
-title: Swerc训练记录
+title: 第二次双周训练_Swerc
 description: 
 published: true
-date: 2020-10-29T15:12:37.666Z
+date: 2020-11-27T06:23:00.915Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-29T14:21:55.238Z
 ---
 
