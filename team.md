@@ -2,7 +2,7 @@
 title: 队伍列表
 description: 
 published: true
-date: 2020-11-29T11:25:01.074Z
+date: 2020-11-29T11:25:34.333Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T08:37:39.792Z
@@ -26,7 +26,7 @@ dateCreated: 2020-10-07T08:37:39.792Z
 * [SeniorTypists](SeniorTypists)
 * [AK to SHIZHI](/team/AK-to-SHIZHI)
 * [Three binary trees](Three)
-* [DreamToAc/DreamToAc](DreamToAc)
+* [DreamToAc](/team/DreamToAc/DreamToAc)
 ## 退役
 
 * [Geometric Rhythm](geometric-rhythm)
