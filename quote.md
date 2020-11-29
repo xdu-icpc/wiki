@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-26T11:42:57.498Z
+date: 2020-11-29T12:22:17.796Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -228,3 +228,13 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [lonely_moon]：比如有的书会讲半天搜(pai)索(xu)，其实一行 `sort` 就行了
 > * [xry111]：搜索咋一行啊
 > * [bzy]：我也想要这种“`sort`”
+
+### 2020-11-29
+
+> * [flukehn]：我一般也就 todolist 空了才打打比赛
+> * [RainCurtain]：todolist 就没空过
+> * [et3_tsy]：todolist 不存在的，只有 todoheap
+> * [xry111]：todouniverse
+> * [zzs]：todo[category](https://arxiv.org/pdf/1612.09375.pdf)
+> * [xry111]：草
+> * [zzs]：todomorphism
