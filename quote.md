@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-29T12:22:17.796Z
+date: 2020-11-29T15:22:47.442Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -238,3 +238,5 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [zzs]：todo[category](https://arxiv.org/pdf/1612.09375.pdf)
 > * [xry111]：草
 > * [zzs]：todomorphism
+
+> * [flukehn]：在抢一血方面，我一个顶六个
