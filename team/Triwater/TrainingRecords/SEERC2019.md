@@ -2,7 +2,7 @@
 title: 2019-2020 ICPC Southeastern European Regional Programming Contest (SEERC 2019)
 description: 
 published: true
-date: 2020-12-07T11:29:08.730Z
+date: 2020-12-07T11:48:23.128Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-07T11:29:08.730Z
@@ -199,6 +199,199 @@ int main()
 ```
 
 
+
+#### C.交互题
+
+题意：
+
+你有30次交互机会，让你还原一个大小为n的数组，n最大到250，数组中每个数不同
+
+每次交互有两种方案，一是具体问某个位置的数。
+
+二是，问具体k个位置，这k个位置对应的数，两两做差的绝对值的结果
+
+题解：
+
+既然每个数不同，说明极差一定，那么我们通过缩短区段并调用方案2查询，发现上界或是下界
+
+再进行二进制分组，2的k次方，如果能与某个数非零，那么把它归成一类，这一类方案2查一次，在加上上界或下界的那个元素再查方案2一次，两次求个差集，就可以这一类中，每个值与界值的绝对值
+
+由于每个位置在二进制下拆解不一样，所以，通过拆分下的每个集合的交集，就可以还原每个位置对应的数了。
+
+这题体现了交互题的两种思想：
+
+1.以小见大，从最有特征的入手，比如最大最小这样的界限，再进一步推别的
+
+2.高效分组。这个分组查询的思想，很重要，尤其是二进制按位分组。
+
+这题又一次强化了我对set的理解：
+
+1.multiset 如果要清处某个具体值，如果全清，则是erase即可，如果只删一个，要erase(find(val))，注意区分
+
+2.求交集，并集，差集，尽量不要用set_union,set_intersection这一类的函数，一方面慢，一方面接收容器只能掏出个vector，麻烦的很
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+#define maxn 305
+int n,x,pos;
+int a[maxn],b[maxn];
+multiset<int>s[8];
+set<int>num;
+queue<int>q;
+void findpos()
+{
+    int maxx=-1;
+    int l=1,r=n;
+    while(l+1<r)
+    {
+        int curmax=-1,mid=(maxx==-1?pos:(l+r)/2);
+        cout<<"2 ";
+        cout<<mid<<" ";
+        for(int i=1;i<mid;i++)
+            cout<<i<<" ";
+        cout<<mid;
+        cout<<"\n";
+        fflush(stdout);
+        for(int i=0;i<mid*(mid-1)/2;i++)
+        {
+            int x;
+            cin>>x;
+            curmax=max(curmax,x);
+        }
+        if(maxx==-1)
+        {
+            maxx=curmax;
+            continue;
+        }
+        else if(maxx!=curmax)
+        {
+            l=mid;
+        }
+        else
+        {
+            r=mid;
+        }
+    }
+    pos=r;
+}
+void dealset(int bit)
+{
+    int bit2=(1<<bit),cnt=0,p=0;
+    for(int i=1;i<=n;i++)
+    {
+        if((i&bit2)==0&&i!=pos)continue;
+        cnt++;
+    }
+    if(cnt>=2)
+    {
+        cout<<"2 ";cout<<cnt;
+        for(int i=1;i<=n;i++)
+        {
+            if((i&bit2)==0&&i!=pos)continue;
+            cout<<" "<<i;
+        }
+        cout<<"\n";
+        fflush(stdout);
+    }
+
+    for(int i=0;i<cnt*(cnt-1)/2;i++)
+    {
+        cin>>x;s[bit].insert(x);
+    }
+
+    cnt=0,p=0;
+    for(int i=1;i<=n;i++)
+    {
+        if((i&bit2)==0||i==pos)continue;
+        cnt++;
+    }
+    if(cnt>=2)
+    {
+        cout<<"2 ";cout<<cnt;
+        for(int i=1;i<=n;i++)
+        {
+            if(i==pos||(i&bit2)==0)continue;
+            cout<<" "<<i;
+        }
+        cout<<"\n";
+        fflush(stdout);
+    }
+    for(int i=0;i<cnt*(cnt-1)/2;i++)
+    {
+        cin>>x;s[bit].erase(s[bit].find(x));
+    }
+    for(int x:s[bit])
+    {
+        num.insert(x);
+    }
+}
+void turnbtoa()
+{
+    for(int x:num)
+    {
+        int curpos=0;
+        for(int i=0;i<8;i++)
+        {
+            if(s[i].count(x))
+            {
+                curpos+=(1<<i);
+            }
+        }
+        b[curpos]=x;
+    }
+    for(int i=2;i<=n;i++)
+    {
+        if(i==pos)continue;
+        a[i]=a[pos];
+        if(a[1]>a[pos])a[i]+=b[i];
+        else a[i]-=b[i];
+
+    }
+}
+
+int main()
+{
+    cin>>n;
+    pos=n;
+    if(n<=30)
+    {
+        for(int i=1;i<=n;i++)
+        {
+            cout<<"1 "<<i<<"\n";
+            fflush(stdout);
+            cin>>a[i];
+        }
+        cout<<"3 ";
+        for(int i=1;i<n;i++)cout<<a[i]<<" ";cout<<a[n];
+        return 0;
+    }
+
+    findpos();
+
+    cout<<"1 "<<pos<<"\n";
+    fflush(stdout);
+    cin>>a[pos];
+    cout<<"1 1"<<"\n";
+    fflush(stdout);
+    cin>>a[1];
+
+    for(int i=0;i<8;i++)
+    {
+        if(n>=(1<<i))dealset(i);
+    }
+
+    turnbtoa();
+
+    cout<<"3 ";
+    for(int i=1;i<n;i++)
+        cout<<a[i]<<" ";
+    cout<<a[n];
+    fflush(stdout);
+    return 0;
+}
+
+```
 
 
 
@@ -705,7 +898,7 @@ int main()
 
 计算贡献时若左边的右端点与右边的左端点异号，则需更新在此处的贡献为(左边的右长度+右边的左长度)/2
 
-```
+```cpp
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;
@@ -850,5 +1043,5 @@ signed main()
 }
 ```
 
-
+#### 
 
