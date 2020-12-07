@@ -2,13 +2,26 @@
 title: 训练记录
 description: 
 published: true
-date: 2020-11-23T11:31:25.535Z
+date: 2020-12-07T09:33:45.290Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T08:31:21.931Z
 ---
 
 # 训练记录
+**第五周训练记录**
+I：签到，由CYS完成。
+D：签到，由ZKL完成。
+然后两题退场(lll￢ω￢)
+
+A：线段树。
+B：DP。
+E：大模拟。
+F：思维。
+G：大模拟。
+J：思维。
+
+
 **第四周训练记录**
 ABDGHKLM：由CYS于去年8月份完成。
 
