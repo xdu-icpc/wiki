@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-11-29T15:22:47.442Z
+date: 2020-12-07T03:27:34.056Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -240,3 +240,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [zzs]：todomorphism
 
 > * [flukehn]：在抢一血方面，我一个顶六个
+
+### 2020-12-07
+> * [flukehn]：acm不就是玩吗
+> * [cdcq]：我：被玩
