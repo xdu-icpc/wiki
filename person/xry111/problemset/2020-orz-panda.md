@@ -2,7 +2,7 @@
 title: 2020-2021 Orz 熊猫杯
 description: 比赛负责人的流水账
 published: true
-date: 2020-12-03T18:53:07.736Z
+date: 2020-12-08T17:28:41.389Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-03T17:59:35.683Z
@@ -42,5 +42,5 @@ dateCreated: 2020-12-03T17:59:35.683Z
 * [x] 出题
 * [x] 比赛
 * [x] 讲题，发题解
-* [ ] Codeforces 传 Ghost
+* [x] Codeforces 传 Ghost
 * [ ] 写一份 DOMJudge 办赛指南
