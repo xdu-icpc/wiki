@@ -2,7 +2,7 @@
 title: 2020-2021 “Orz Panda” Cup Programming Contest
 description: 
 published: true
-date: 2020-12-13T16:44:33.647Z
+date: 2020-12-13T16:54:41.438Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T16:02:26.750Z
@@ -18,7 +18,7 @@ pllj 大概有了 H 的思路便开始写，结果没过样例便打印了代码
 - 分工不够明确，在题目思路的交流上存在问题。
 # 赛后补题
 - RainCurtain 在比赛一结束读懂 D 题题意后怒秒 D 题。
-- pllj 和 FreeSin 分别使用 **set** 和 **frs-trie树** 过了 C 题，证明了 frs-trie树 可以在一定程度上完成平衡树的一些功能
+- pllj 和 FreeSin 分别使用 **set** 和 **frs-trie树** 过了 C 题，证明了 frs-trie树 可以在一定程度上代替平衡树完成一些功能√。
 - FreeSin 学习了 FFT 后补了 E 。
 - pllj 在展开合并计算贡献的式子到自闭时发现了在lca处有被重复计算的贡献，将这些贡献减去后~~居然~~过了G题。
-- FreeSin 在做梦梦到自己过了 J 题后真的把这题过了。
+- FreeSin 在做梦梦到自己过了 J 题后把这题过了。
