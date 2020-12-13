@@ -2,7 +2,7 @@
 title: 比赛记录
 description: 
 published: true
-date: 2020-12-13T16:51:52.969Z
+date: 2020-12-13T16:52:37.342Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T16:01:14.873Z
@@ -13,4 +13,4 @@ dateCreated: 2020-12-13T16:01:14.873Z
 The 2020 ICPC China Shaanxi Provincial Programming Content
 ## 2020年11月
 2020 China Collegiate Programming Contest Changchun Onsite
-[2020-2021 “Orz Panda” Cup Programming Contest](/team/take-tour-time/content-records/orz_panda2020)
+[2020-2021 “Orz Panda” Cup Programming Contest](/team/take-tour-time/contest-records/orz_panda2020)
