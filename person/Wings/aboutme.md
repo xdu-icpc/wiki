@@ -2,7 +2,7 @@
 title: About Me
 description: 生活不断拿你开玩笑 可你还得报之以微笑
 published: true
-date: 2020-12-14T15:58:52.191Z
+date: 2020-12-14T16:03:13.508Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-14T15:52:16.005Z
@@ -20,6 +20,10 @@ dateCreated: 2020-12-14T15:52:16.005Z
 - 2020 XDU Orz Panda Cup 第五 银牌
 - 2020 XDU 新生赛 第八 金牌
 
+$$$$
+
+- to be continued
 
 # 社交
 - 博客 [Wings的笔记本](http://wingszeng.github.io/)
+- 邮箱 [wings.xiangyi.zeng@gmail.com](mailto:wings.xiangyi.zeng@gmail.com)
