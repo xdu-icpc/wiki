@@ -2,7 +2,7 @@
 title: 训练记录
 description: 
 published: true
-date: 2020-12-14T09:56:40.514Z
+date: 2020-12-14T09:57:03.161Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T08:31:21.931Z
@@ -19,10 +19,15 @@ B：CYS补完。
    题解说，显然，对于n等于某一特定值的答案，f[n]=balabala，那就显然吧。
    ans=Σn*f[n]=balabala。
    用杜教筛求出欧拉函数，用矩阵快速幂求出斐波那契数列，数论分块得解。
+   
 C：MSY补完。
+
 D：ZKL补完。
+
 E：ZKL补完。
+
 G：MSY补完。
+
 J：CYS补完。
    题解说，显然，交换a（或b）数组中的任意2个元素，不改变答案，那就显然吧。
    故先对a、b数组进行排序。
