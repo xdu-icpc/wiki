@@ -2,9 +2,9 @@
 title: Triwater
 description: 鑫森众焱垚
 published: true
-date: 2020-10-27T13:07:02.365Z
+date: 2020-12-14T08:46:14.464Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-08T10:45:22.479Z
 ---
 
@@ -13,6 +13,6 @@ dateCreated: 2020-10-08T10:45:22.479Z
 Ryker0923
 et3_tsy
 1427314831a
-## 训练记录
+## 获奖经历
 
-2020 CCPC秦皇岛：https://www.cnblogs.com/et3-tsy/p/13887557.html
+目前获得的只有破铜烂铁
