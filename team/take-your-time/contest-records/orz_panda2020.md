@@ -2,7 +2,7 @@
 title: 2020-2021 “Orz Panda” Cup Programming Contest
 description: 
 published: true
-date: 2020-12-13T16:54:41.438Z
+date: 2020-12-14T04:23:22.173Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T16:02:26.750Z
@@ -22,3 +22,4 @@ pllj 大概有了 H 的思路便开始写，结果没过样例便打印了代码
 - FreeSin 学习了 FFT 后补了 E 。
 - pllj 在展开合并计算贡献的式子到自闭时发现了在lca处有被重复计算的贡献，将这些贡献减去后~~居然~~过了G题。
 - FreeSin 在做梦梦到自己过了 J 题后把这题过了。
+- FreeSin 和 RainCurtain 在数据结构课上过了 B。
