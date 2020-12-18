@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-12-18T09:08:09.510Z
+date: 2020-12-18T09:11:04.001Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -247,7 +247,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 
 ### 2020-12-17
 
-![557af05112cc6970.gif](/557af05112cc6970.gif)
+> * [IGVA]：![557af05112cc6970.gif](/557af05112cc6970.gif)
 
 ### 2020-12-18
 
