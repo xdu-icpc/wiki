@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-12-18T09:11:04.001Z
+date: 2020-12-18T09:49:30.517Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -255,3 +255,5 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [flukehn]：这个 $k$ 是 $0$？
 > * [bzy]：...
 > * [bzy]：啊，我忘了读入 $k$
+
+> * [flukehn] 1Y 了一堆题后：这比赛，不让我贡献罚时
