@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-12-18T09:52:12.215Z
+date: 2020-12-18T10:12:21.816Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -261,3 +261,10 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [bzy]：什么？栈不能遍历？
 
 > * [zzs]：咱们什么时候 $7$ 题了？！
+
+> * ([bzy] 的某道题，开调试输出以后答案就对了，不开就输出奇怪的值)
+> * [xry111]：你看上面那个编译警告不是说有没初始化的吗
+> * [bzy] 打开代码：`delb` 是啥，`int delb = (sum_black + delb) / k * k;`
+> * [bzy]：……
+> * [flukehn]：……
+> * [zzs]：你为啥不看警告啊，我以为那警告你看了无数次了
