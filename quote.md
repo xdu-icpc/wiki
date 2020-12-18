@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-12-07T03:27:34.056Z
+date: 2020-12-18T09:08:09.510Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -244,3 +244,14 @@ dateCreated: 2020-10-07T11:50:07.703Z
 ### 2020-12-07
 > * [flukehn]：acm不就是玩吗
 > * [cdcq]：我：被玩
+
+### 2020-12-17
+
+![557af05112cc6970.gif](/557af05112cc6970.gif)
+
+### 2020-12-18
+
+> * [zzs]：`SIGFPE`，除零了
+> * [flukehn]：这个 $k$ 是 $0$？
+> * [bzy]：...
+> * [bzy]：啊，我忘了读入 $k$
