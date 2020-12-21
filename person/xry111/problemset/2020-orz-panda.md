@@ -2,7 +2,7 @@
 title: 2020-2021 Orz 熊猫杯
 description: 比赛负责人的流水账
 published: true
-date: 2020-12-08T17:28:41.389Z
+date: 2020-12-21T16:59:54.812Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-03T17:59:35.683Z
@@ -25,6 +25,7 @@ dateCreated: 2020-12-03T17:59:35.683Z
 
 * C 题一开始标程锅了 (感兴趣的同志可以开教练权限看 Codeforces 上我的号提交的 WA 代码)，幸亏被 [qkoqhh] 抢救了
 * D 题 [qkoqhh] 给我的时候把 $E(\cdot)$ 丢了，然后我直接当成遍历性随机过程的“集合平均等于时间平均”去做了，比完赛才发现集合平均和时间平均只是几乎处处相等所以不能直接划等号……锅了
+  - 后来发现这个东西恶劣程度相当于说 “Dirichlet 函数恒等于 $0$”，或者 “世界上没有有理数”……
 * E 题 Codeforces 上卡不掉 $\mathcal{O}(n^2)$ 的暴力，但是现场卡掉了
 * 比赛时候发现 C 题题目描述有点 bug，当场 Clarification 问题不大
 
