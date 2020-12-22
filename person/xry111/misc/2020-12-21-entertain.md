@@ -2,7 +2,7 @@
 title: 2020-12-21 欢乐赛
 description: IG*A 杯
 published: true
-date: 2020-12-22T23:53:27.176Z
+date: 2020-12-22T23:58:00.467Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T23:53:27.176Z
@@ -56,6 +56,8 @@ dateCreated: 2020-12-22T23:53:27.176Z
 ### D. Game on a Graph
 
 就是去年新生赛某个题，我怀疑去年 wjj 他们就是打了这场然后出了个原题。
+
+拿 Python 随便写了一下结果跑了 $950$+ 毫秒，差点超时。
 
 ### C. Wandering Robot
 
