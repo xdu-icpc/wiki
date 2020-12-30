@@ -2,7 +2,7 @@
 title: 语录
 description: 
 published: true
-date: 2020-12-18T10:12:21.816Z
+date: 2020-12-30T09:55:26.808Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T11:50:07.703Z
@@ -268,3 +268,7 @@ dateCreated: 2020-10-07T11:50:07.703Z
 > * [bzy]：……
 > * [flukehn]：……
 > * [zzs]：你为啥不看警告啊，我以为那警告你看了无数次了
+
+### 2020-12-30
+
+> * [xry111]：感觉 ACM 实验室除了打 ACM 的干啥的都有
