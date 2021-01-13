@@ -2,7 +2,7 @@
 title: 西安电子科技大学程序设计竞赛实训基地
 description: 东方冯神录
 published: true
-date: 2020-11-09T16:12:54.992Z
+date: 2021-01-13T05:07:06.792Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-09T12:58:31.858Z
@@ -25,6 +25,7 @@ dateCreated: 2020-11-09T12:58:31.858Z
 * [规则](/regulation)
 * [队伍列表](/team)
 * [双周训练](/double-week)
+* [2021寒假集训](/2021寒假集训)
 
 ## 文化
 
