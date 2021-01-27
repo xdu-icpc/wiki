@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2021-01-27T09:04:00.947Z
+date: 2021-01-27T09:04:46.155Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-27T09:04:00.947Z
@@ -71,9 +71,10 @@ dateCreated: 2021-01-27T09:04:00.947Z
 | ::: | 带权二分图匹配 | KM 算法（注意复杂度） | | | |
 | ::: | 霍尔定理 || | | |
 
-===== 字符串 =====
+## 字符串
 
-^ 知识点 ^^^ Pantw ^ Withinlover ^ Gary ^
+| 知识点 ||| Leachim | rqdmap | IGVA |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | Trie ||| | | |
 | AC自动机 ||| | | |
 | KMP | KMP || | | |
