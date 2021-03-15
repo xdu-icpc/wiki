@@ -2,9 +2,9 @@
 title: 测试页面
 description: 用于测试乱七八糟的东西
 published: true
-date: 2020-10-08T16:53:26.403Z
+date: 2021-03-15T10:35:49.307Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-07T08:33:05.438Z
 ---
 
@@ -45,4 +45,6 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 > 警告：将 `a` 从 `long long` 转换成 `int` 可能改变其值。
 {.is-warning}
+
+<img src="https://gery.top/images/rrzq.png" width="10%"><br>
 
